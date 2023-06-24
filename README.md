@@ -6,10 +6,14 @@ This project uses Amazon's Rekognition Services to help detect a person's age an
 Here is a demonstration of this project:
 
 
-https://github.com/chienhuiiii/Rekkognition/assets/105071830/00385ac9-e71f-463f-b883-8cb96b63832f
+
+https://github.com/chienhuiiii/Rekognition/assets/105071830/4f725685-4a19-4d16-b1fd-77f3cab04df0
 
 
-https://github.com/chienhuiiii/Rekkognition/assets/105071830/ec4c84bc-ef68-4d8a-91c9-efdac7a558cc
+
+https://github.com/chienhuiiii/Rekognition/assets/105071830/8e5ccdb3-14f9-4bbb-a918-f378b0aa6350
+
+
 
 
 Website Hosted at: http://chienhui.pythonanywhere.com/
