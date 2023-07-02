@@ -11,10 +11,7 @@ https://github.com/chienhuiiii/Rekognition/assets/105071830/4f725685-4a19-4d16-b
 
 
 
-
-https://github.com/chienhuiiii/Rekognition/assets/105071830/242e7f9c-caa3-4aa2-986e-2155fa6c4882
-
-
+https://github.com/chienhuiiii/Rekognition/assets/105071830/d2514b89-31c3-401e-9a99-89b75b8fa1c2
 
 
 
