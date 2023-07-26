@@ -16,3 +16,6 @@ https://github.com/chienhuiiii/Rekognition/assets/105071830/d2514b89-31c3-401e-9
 
 
 Website Hosted at: http://chienhui.pythonanywhere.com/
+
+
+This project relied heavily on the use of ChatGPT, online resources and documentatins on the Rekognition AWS library and the usage of flask and jinja
